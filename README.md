@@ -1,5 +1,12 @@
 In this project, let's build a **Blogging Platform** app.
 ##### Here Is the Deploy Link :- https://charanblogging9.ccbp.tech/
+
+- User credentials
+
+  ```
+   username: rahul
+   password: rahul@2021
+    ```
 ### Important Note
 
 <details>
@@ -21,13 +28,6 @@ In this project, let's build a **Blogging Platform** app.
   ```
    username: rahul
    password: rahul@2021
-  ```
-
-- Non-Prime User credentials
-
-  ```
-   username: raja
-   password: raja@2021
   ```
 
 - Wrap the Loader component with an HTML container element and add the `data-testid` attribute value as `loader` to it
